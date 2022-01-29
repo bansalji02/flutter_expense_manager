@@ -1,6 +1,8 @@
 # expensemanager
 
 A new Flutter project.
+It is a personal expense manager app that is solely developed in flutter
+
 
 ## Getting Started
 
