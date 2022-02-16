@@ -1,7 +1,22 @@
-# expensemanager
+# Expense Manager
 
-A new Flutter project.
-It is a personal expense manager app that is solely developed in flutter
+It is a mobile application project named Expense Manager developed solely in flutter and dart.
+
+This project is a part of my project based learning of flutter and its concepts.
+It is my first major project.
+I have learned the following things from this project-
+
+- basic concepts and widgets of flutter like Scaffold, container, Listview etc along with different ways to style them and dynamically change them
+- creating responsive and adaptive user interface to match the requirements of different devices
+- how to differentiate the app for ios and android platform 
+- Data structures in dart like List and how to use them statically and dynamically
+- how to use and format dates in our app 
+
+
+This app is made with the concepts i have learned till date.
+I haven't added the data storage functionality in this app, but we will implement it later
+
+
 
 
 ## Getting Started
